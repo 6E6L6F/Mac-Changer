@@ -2,19 +2,20 @@
 
 How To Install..??
 
-  sudo apt-get install git
+      $ sudo apt-get install git
   
-  git clone https://github.com/elf-cyber/Mac-Changer
+      $ git clone https://github.com/elf-cyber/Mac-Changer
   
-  cd Mac-Changer
+      $ cd Mac-Changer
   
-  sudo bash install.sh
+      $ sudo bash install.sh
   
-  sudo su
+      $ sudo su
   
-  Mac -iface= [InterFace Name] -newMac=00:00:00:00:00:00
+      $ Mac -iface= [InterFace Name] -newMac=00:00:00:00:00:00
 
 
 #Video 
 
-  https://github.com/elf-cyber/Mac-Changer/blob/main/Video_220714184835.mp4
+
+      https://github.com/elf-cyber/Mac-Changer/blob/main/Video_220714184835.mp4
